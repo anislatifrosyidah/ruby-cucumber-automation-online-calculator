@@ -5,7 +5,8 @@
 ## setup
 
 ```shell
-cd cucumber-examples/ruby
+git clone git@github.com:anislatifrosyidah/ruby-cucumber-automation-online-calculator.git
+cd ruby-cucumber-automation-online-calculator
 gem install bundler
 bundle install
 ```
